@@ -6,7 +6,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 |    Bem vindo ao programa       |
 |            Idade,              |
 |             Peso               |   
-|           e Tamanho            |
+|           e Tamanho             |
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 ");
