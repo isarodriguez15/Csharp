@@ -1,5 +1,5 @@
 ﻿int numeroImpar = 0;
-int numeroPar = 0;
+int numeroPar = 0; 
 
 
 
@@ -22,6 +22,28 @@ for ( int i = 0; i < 6; i++)
     }
 }
 
-Console.WriteLine($"temos  {numeroPar} numeros pares e {numeroImpar} numeros impares");
+Console.WriteLine($"  {Par} numeros pares ");
+for (int i = 0; i < numeros.Length; i++)
+{
+     if (numeros[i] % 2 == 0)
+    {
+       Console.WriteLine($"{numeros[i]}");
+
+    }
+    
+}
+
+ Console.WriteLine();
+ Console.WriteLine();
 
 
+Console.WriteLine($"  {Impar} numeros impares");
+for (int i = 0; i < numeros.Length; i++)
+{
+     if (numeros[i] % 2 == 1)
+    {
+        numeroImpar++;
+        Console.WriteLine($"{numeros[i]}");
+       
+    }
+}
