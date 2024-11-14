@@ -1,0 +1,15 @@
+C:\Users\46206573877\Desktop\Aula Backend\POO\RPGpoo\obj\Debug\net8.0\RPGpoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46206573877\Desktop\Aula Backend\POO\RPGpoo\obj\Debug\net8.0\RPGpoo.AssemblyInfoInputs.cache
+C:\Users\46206573877\Desktop\Aula Backend\POO\RPGpoo\obj\Debug\net8.0\RPGpoo.AssemblyInfo.cs
+C:\Users\46206573877\Desktop\Aula Backend\POO\RPGpoo\obj\Debug\net8.0\RPGpoo.csproj.CoreCompileInputs.cache
+C:\Users\46206573877\Desktop\Aula Backend\POO\RPGpoo\obj\Debug\net8.0\RPGpoo.sourcelink.json
+C:\Users\46206573877\Desktop\Aula Backend\POO\RPGpoo\bin\Debug\net8.0\RPGpoo.exe
+C:\Users\46206573877\Desktop\Aula Backend\POO\RPGpoo\bin\Debug\net8.0\RPGpoo.deps.json
+C:\Users\46206573877\Desktop\Aula Backend\POO\RPGpoo\bin\Debug\net8.0\RPGpoo.runtimeconfig.json
+C:\Users\46206573877\Desktop\Aula Backend\POO\RPGpoo\bin\Debug\net8.0\RPGpoo.dll
+C:\Users\46206573877\Desktop\Aula Backend\POO\RPGpoo\bin\Debug\net8.0\RPGpoo.pdb
+C:\Users\46206573877\Desktop\Aula Backend\POO\RPGpoo\obj\Debug\net8.0\RPGpoo.dll
+C:\Users\46206573877\Desktop\Aula Backend\POO\RPGpoo\obj\Debug\net8.0\refint\RPGpoo.dll
+C:\Users\46206573877\Desktop\Aula Backend\POO\RPGpoo\obj\Debug\net8.0\RPGpoo.pdb
+C:\Users\46206573877\Desktop\Aula Backend\POO\RPGpoo\obj\Debug\net8.0\RPGpoo.genruntimeconfig.cache
+C:\Users\46206573877\Desktop\Aula Backend\POO\RPGpoo\obj\Debug\net8.0\ref\RPGpoo.dll
